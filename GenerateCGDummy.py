@@ -1,5 +1,3 @@
-# 根据参数同时启动flatcg, hier或完整CG
-
 import os
 import logging
 import subprocess
